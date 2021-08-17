@@ -1,4 +1,4 @@
-```
+```javascript
 const background = ''; //url background
 const defaultColor = '#36ffff';
 const width = 1000;
