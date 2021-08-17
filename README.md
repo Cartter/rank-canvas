@@ -14,4 +14,4 @@ const level = '53'; //changeme
 const position = '#14'; //changeme
 ```
 
-![Alt text](/relative/path/to/card.png?raw=true "")
+![Alt text](rank-canvas/card.png?raw=true "")
