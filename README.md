@@ -13,3 +13,5 @@ const requiredXp = 100; //changeme
 const level = '53'; //changeme
 const position = '#14'; //changeme
 ```
+
+![Alt text](/relative/path/to/card.png?raw=true "")
